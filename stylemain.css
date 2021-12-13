@@ -1,0 +1,170 @@
+.head{
+          list-style: none;
+          width: 110%;
+          line-height: 20px;
+          height: 100px;
+          background-color:rgb(17,17, 17) ;
+          padding:auto;
+          margin-top:0px;  
+          margin-bottom: 0px;
+          margin-right: 0px;
+          margin-left: 0px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 14px;
+          text-size-adjust: 100%;
+          color: white;
+          display: flex;
+          justify-content:auto;
+          border: 0%;
+          flex-wrap: wrap;
+}
+
+.head-middle{
+          list-style: none;
+          width: 110%;
+          line-height: 20px;
+          height: 190.2px;
+          background-color:rgb(17, 34, 51);
+          padding:auto;
+          margin-top:0px;  
+          margin-bottom: 0px;
+          margin-right: 0px;
+          margin-left: 0px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 14px;
+          text-size-adjust: 100%;
+          color: white;
+          display: flex;
+          justify-content:auto;
+          border: 0%;
+          flex-wrap: wrap;
+}
+.headtext{
+          width:637.162px;
+          height: 177.6px;
+          line-height: 33px;
+          display: flex;
+          flex-wrap: wrap;
+          padding: 5px;
+          text-align: left;
+          text-size-adjust: 100%;
+}
+.icon{
+          padding: 10px;
+          display: flex;
+          flex-wrap: wrap;
+          text-align: center;
+}
+ #space{
+           
+           height: 26.4px;
+           width: 124.088px;
+           padding:4px;
+           display: inline-flex;
+           flex-wrap: wrap;
+}
+a{ 
+          text-decoration: none;
+          color: white;
+          text-decoration: none;
+}
+.icon{
+          width: 100%;
+          height: 200px; 
+          background-color: rgb(17, 34, 51);
+          text-align: center;
+}
+.leftportion{
+          background-color: rgba(221, 219, 189, 0.466);
+          height: 222px;
+          width: 350px;
+          border-radius: 10px;
+          border-width: 6px;
+          border-style: ridge;
+          border-color: rgba(17, 34, 51,0.4);
+          display:flex;
+          flex-wrap: wrap;
+          padding: 5px;
+          margin: 10px;
+}
+.rightportion{
+          background-color: rgba(237, 246, 248, 0.329);
+          height: 500px;
+          width:90%;
+          border-radius: 10px;
+          border-width: 6px;
+          border-style: ridge;
+          border-color: rgba(17, 34, 51,0.4);
+          display:flex;
+          flex-wrap: wrap;
+          padding: 5px;
+          margin: 10px;
+}
+#space:hover{
+          background-color: darkgrey;
+}
+#project-heading{
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          padding: 5px;
+          height: 50px;
+          width: 80%;
+          font-size: 40px;
+          margin-left: 300px;
+          margin-bottom: 10px;
+          margin-right: 410px;
+          color: rgba(161, 12, 12, 0.609);
+          border-bottom-style: dotted;
+          display:flex;
+          flex-wrap: wrap;
+          text-align: center;
+}
+#project-heading-small{
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          padding: 5px;
+          height: 30px;
+          width: 80%;
+          font-size: 20px;
+          margin-left: 30px;
+          margin-bottom: 10px;
+          color: rgba(161, 12, 12, 0.609);
+          border-bottom-style: dotted;
+          display:flex;
+          flex-wrap: wrap;
+          
+}
+.contentdiv{
+          background-color: rgba(198, 147, 240, 0.356);
+          display:flex;
+          flex-wrap: wrap;
+          border: 200px;
+          height:50px;
+          margin-bottom:20%;
+          width: 40%;
+          
+}
+
+#list a{
+          color: rgba(198, 147, 240, 0.356);;
+}
+#listsno{
+          background-color: rgba(198, 147, 240, 0.356);
+          padding: 5px;
+          margin: 5px;
+          height:30px;
+          width: 50px;
+          text-align: center;
+          color: rgb(4, 19, 87);
+          
+}
+#listheading{
+          background-color: rgba(198, 147, 240, 0.356);
+          padding: 5px;
+          margin: 5px;
+          height:30px;
+          text-decoration-line: underline ;
+          display: inline-flexbox;
+          font-style: oblique;
+          color:rgba(161, 12, 12, 0.709); ;
+
+}
+
